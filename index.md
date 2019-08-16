@@ -8,7 +8,7 @@ This page will contain three projects worked on during my time in Southern New H
 
 ### Table of Contents
 
-* [Code Review](https://github.com/santosryan/santosryan.github.io#code-review)
+* [Code Review](https://santosryan.github.io#code-review)
 
 ## Code Review
 
