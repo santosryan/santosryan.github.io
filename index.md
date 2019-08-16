@@ -19,6 +19,7 @@ The following video is a code review of the projects used for the Capstone final
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
+<br /><br /> 
 
 ## Local Coffee Shop
 
