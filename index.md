@@ -10,6 +10,8 @@ This page will contain three projects worked on during my time in Southern New H
 
 * [Code Review](https://santosryan.github.io#code-review)
 * [Local Coffee Shop](https://santosryan.github.io#local-coffee-shop)
+* [Authenticated](https://santosryan.github.io#authenticated)
+* [SQL Scripts](https://santosryan.github.io#sql-scripts)
 
 ## Code Review
 
@@ -28,3 +30,7 @@ I chose this artifact because I believed it was the project that showcased every
 	
 While enhancing and modifying the artifact I did learn quite a bit. Through the code review I was able to see many flaws and mistakes in my work that I previously had made and was not able to see. I also found out that one of my weak points in software development is not leaving detailed comments, and it is something I need to improve on. I also learned that I should clean up unneeded code and variables as well as remove test routines that are no longer needed. Throughout my modification I found many instances of old code that I had used to test out functionality of certain things that I did not remove. The main challenge I faced was time management. I was unable to complete the enhancements that I made, when I originally created the artifact last term, and making sure I completed them in two weeks was a bit of a challenge. <br />
 </div>
+
+## Authenticated
+
+## SQL Scripts
