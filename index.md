@@ -12,7 +12,7 @@ This page will contain three projects worked on during my time in Southern New H
 
 ## Code Review
 
-The following video is a code review of 
+The following video is a code review of the projects used for the Capstone final project.
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
