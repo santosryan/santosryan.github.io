@@ -2,15 +2,17 @@
 youtubeId: 3RvCulFPaeU
 ---
 
-## Welcome to GitHub Pages
+## Ryan Santos ePortfolio
 
-You can use the [editor on GitHub](https://github.com/santosryan/santosryan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This page will contain three projects worked on during my time in Southern New Hampshire University's Computer Science program. Each project will contain a narrative that describes enhancements that were made to them for my Computer Science Capstone course. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Table of Contents
 
-### Markdown
+* [Code Review](https://github.com/santosryan/santosryan.github.io#code-review)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Code Review
+
+The following video is a code review of 
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
