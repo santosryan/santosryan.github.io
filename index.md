@@ -10,7 +10,7 @@ This page will contain three projects worked on during my time in Southern New H
 
 * [Code Review](https://santosryan.github.io#code-review)
 
-## Code Review
+# Code Review
 
 The following video is a code review of 
 
