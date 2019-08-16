@@ -19,6 +19,7 @@ The following video is a code review of the projects used for the Capstone final
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
+
 ## Local Coffee Shop
 
 The Local Coffee Shop mobile application can be found [here](https://github.com/santosryan/local-coffee-shop).
@@ -30,6 +31,8 @@ I chose this artifact because I believed it was the project that showcased every
 	
 While enhancing and modifying the artifact I did learn quite a bit. Through the code review I was able to see many flaws and mistakes in my work that I previously had made and was not able to see. I also found out that one of my weak points in software development is not leaving detailed comments, and it is something I need to improve on. I also learned that I should clean up unneeded code and variables as well as remove test routines that are no longer needed. Throughout my modification I found many instances of old code that I had used to test out functionality of certain things that I did not remove. The main challenge I faced was time management. I was unable to complete the enhancements that I made, when I originally created the artifact last term, and making sure I completed them in two weeks was a bit of a challenge. <br />
 </div>
+
+<br /><br />
 
 ## Authenticated
 
@@ -43,4 +46,18 @@ I chose this artifact because I believed that I would be able to showcase my abi
 While enhancing and modifying the artifact I did learn a little bit. I noticed again that my code was not well commented or commented at all in some places, however I did go back and added comments where there were none as well as added comments to all the new enhancements on the code. While working on these enhancements I became a lot more familiar with ArrayLists and file handlers as this time I created my own rather than being handed pieces of one. Getting the csv file handler to function correctly was the biggest hurdle as I needed the information to be read correctly in order to correctly authenticate the user. I did run into a few issues with formatting of the csv file and reading the information, but I was able to get all of those issues resolved. <br /><br /> 
 </div>
 
+<br /><br />
+
 ## SQL Scripts
+
+The SQL Scripts can be found [here](https://github.com/santosryan/intro-sql-scripts).
+
+<div style="width: 600px; height: 300px; overflow-y: scroll; border: 1px solid #000000">
+The artifact used were SQL scripts that were created in DAD 220 – Introduction to SQL. The goal of the project was to create scripts to complete various tasks that performed create, read, update and delete operations on databases and tables. <br /><br />
+	
+I chose this artifact because I believed that I would be able to showcase my ability to create, design, and manage databases. The artifact included different SQL statements that covered everything from basics on creating databases and tables, to advanced queries to extract specific data, so it showed that I have a solid understanding of creating, organizing and managing a database. To improve the artifact, I created a new script that would accomplish most of the same things but with the use of imported data from a csv file and also once all the changes are made, output the changes to an updated csv file. I do believe I hit my mark on meeting the course objectives on my ability to create databases, manipulate data in tables, and extract specific information. <br /><br />
+
+While enhancing and modifying the artifact I did learn a little bit. I noticed that my scripts were not organized very well with comments coming after the statements and with some statements not being formatted correctly for readability. I did change the organization of comments for each statement and also corrected the formatting of the statements to increase the readability of the scripts. I also learned how to use files in a database environment as this was something I had not previously done. I did run into some issues while trying to implement the importing data into the databases and tables and also querying to export data to a file, but I eventually resolved the issues and completed the enhancements.  <br /><br /> 
+</div>
+
+<br /><br />
