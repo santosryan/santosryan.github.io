@@ -33,4 +33,14 @@ While enhancing and modifying the artifact I did learn quite a bit. Through the 
 
 ## Authenticated
 
+The Authenticated application can be found [here](https://github.com/santosryan/authenticated).
+
+<div style="width: 600px; height: 300px; overflow-y: scroll; border: 1px solid #000000">
+The artifact used was the Authentication System that was created in IT 145 – Foundation in Application. The goal of the project was to create a basic login authentication system for a zoo system. The program worked by prompting the user to enter in their login information for the system, then system then read from a text file to validate the user’s information using their username, password and hash password. <br /><br />
+	
+I chose this artifact because I believed that I would be able to showcase my ability to create and use data structures and algorithms. The artifact included creating functions that would use a text file to validate information. A database could be used to create a csv file of user information, and then that file could be used to authenticate users when they provide the appropriate credentials. To simulate this real-world application, I made the text file into a csv file, created a class that would hold the user information, and created an ArrayList of that object that would then allow me to create an authentication system. By adding these new features, I believe I made the application and code itself a bit more reusable. I do believe I hit my mark on meeting the course objectives on my ability to create, manipulate, and use data structures in conjunction with algorithms. <br /><br />
+
+While enhancing and modifying the artifact I did learn a little bit. I noticed again that my code was not well commented or commented at all in some places, however I did go back and added comments where there were none as well as added comments to all the new enhancements on the code. While working on these enhancements I became a lot more familiar with ArrayLists and file handlers as this time I created my own rather than being handed pieces of one. Getting the csv file handler to function correctly was the biggest hurdle as I needed the information to be read correctly in order to correctly authenticate the user. I did run into a few issues with formatting of the csv file and reading the information, but I was able to get all of those issues resolved. <br /><br /> 
+</div>
+
 ## SQL Scripts
