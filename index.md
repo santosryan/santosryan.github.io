@@ -8,7 +8,7 @@ This page will contain three projects worked on during my time in Southern New H
 
 ## Table of Contents
 
-* [Self-Assessment]()
+* [Self-Assessment](https://santosryan.github.io#self-assessment)
 * [Code Review](https://santosryan.github.io#code-review)
 * [Local Coffee Shop](https://santosryan.github.io#local-coffee-shop)
 * [Authenticated](https://santosryan.github.io#authenticated)
